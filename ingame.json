@@ -1,0 +1,18 @@
+{
+    "enemies" : {
+        "detect" : false,
+        "stepsToDetect" : 5
+    },
+    "aggresion" : {
+        "closeToEnemy" : true,
+        "agony" : false,
+        "always" : false
+    },
+    "agony" : {
+        "timeout" : 5,
+        "aggresionTimeout" : 5
+    },
+    "visualizator" : {
+        "showRaw" : false
+    }
+}
